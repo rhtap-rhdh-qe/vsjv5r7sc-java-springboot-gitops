@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vsjv5r7sc-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vsjv5r7sc-java-springboot
